@@ -1,2 +1,9 @@
 # Analisis_Pendidikan_dan_Pelatihan_2023
-<img width="960" alt="Dashboard1" src="https://github.com/ghifarisyauqi/Analisis_Pendidikan_dan_Pelatihan_2023/assets/134846183/6489a5af-5eb9-4c3c-b430-b295ebe35cf1">
+# **Latar Belakang**
+
+Pusat Pengembangan Sumber Daya Manusia Aparatur (PPSDMA) **ingin mengetahui kinerja kegiatan Diklat selama tahun 2023**.
+# **Pernyataan Masalah**
+
+Pusat Pengembangan Sumber Daya Manusia Aparatur (PPSDMA) **ingin mengetahui kinerja kegiatan Diklat selama tahun 2023**. sehingga dengan adanya informasi ini bisa memudahkan PPSDMA dalam mengetahui kinerja Diklat selama tahun 2023 
+
+sebagai seorang Data Analyst, Saya akan membandingkan antara target peserta dan realisasi peserta yang hadir.
